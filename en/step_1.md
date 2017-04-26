@@ -1,3 +1,5 @@
+### Saving a Scratch project
+
 + Give your program a name, by typing one into the text box in the top-left corner.
 
 + You can then click 'File' and then 'Save now' to save your project.
