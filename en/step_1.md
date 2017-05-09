@@ -6,4 +6,5 @@
 
 	![screenshot](images/save.png)
 
-+ __If you don't have a Scratch account__, you can save a copy of your project by clicking 'Download to your computer' instead.
++ If you're using online Scratch but __don't have a Scratch account__, you can save a copy of your project by clicking 'Download to your computer' instead.
+
