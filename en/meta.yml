@@ -1,9 +1,9 @@
-title: saving-scratch
+title: Saving a Scratch project
 hero_image: images/banner.png
-subtitle: saving-scratch subtitle
-description: saving-scratch description
-published: false
-
+description: Saving a Scratch project
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
 steps:
-  - title: Step one
-    duration: 25
+  - title: Save your project
