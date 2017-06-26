@@ -1,7 +1,9 @@
 title: Saving a Scratch project
 hero_image: images/banner.png
 description: Saving a Scratch project
-published: false
-
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
 steps:
-  - title: Step one
+  - title: Save your project
