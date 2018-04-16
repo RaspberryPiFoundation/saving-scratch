@@ -1,6 +1,6 @@
 ---
 title: Een Scratch-project opslaan
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Een Scratch-project opslaan
 theme: cc-prototype
 duration: 1
@@ -11,5 +11,4 @@ copyedit: true
 interests: ""
 technologies: "scratch"
 steps:
-  - 
-    title: Sla je project op
+  - title: Sla je project op
