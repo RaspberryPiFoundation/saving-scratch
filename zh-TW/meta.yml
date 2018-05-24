@@ -4,11 +4,11 @@ hero_image: 圖片/ banner.png
 description: 保存一個Scratch項目
 theme: CC-原型
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "刮"
 steps:
   - 
