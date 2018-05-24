@@ -1,15 +1,15 @@
 ---
-title: Guardar un proyecto Scratch
-hero_image: images / banner.png
-description: Guardar un proyecto Scratch
+title: Guardar un proyecto en Scratch
+hero_image: images/banner.png
+description: Guardar un proyecto en Scratch
 theme: cc-prototype
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "rasguño"
+interests:
+technologies: "scratch"
 steps:
   - 
-    title: Guarde su proyecto
+    title: Guarda tu proyecto
