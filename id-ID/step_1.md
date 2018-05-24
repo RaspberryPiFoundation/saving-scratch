@@ -1,7 +1,7 @@
-+ Berikan nama program Anda dengan mengetikkan kotak teks di pojok kiri atas.
++ Berikan nama program Kamu dengan mengetik pada kotak teks di pojok kiri atas.
 
-+ Anda bisa klik **File** dan kemudian **Save now** untuk menyimpan proyek Anda.
++ Kamu bisa klik **Berkas** dan kemudian **Simpan Sekarang** untuk menyimpan proyek Kamu.
     
-    ![tangkapan layar](images/save.png)
+    ![screenshot](images/save.png)
 
-+ **Catatan:** jika Anda menggunakan Scratch secara online namun tidak memiliki akun Scratch, Anda dapat menyimpan salinan proyek Anda dengan mengklik **Download ke komputer Anda**.
++ **Catatan:** jika Kamu menggunakan Scratch secara daring namun tidak memiliki akun Scratch, Kamu dapat menyimpan salinan proyek Kamu dengan mengklik **Unduh ke komputermu**.
