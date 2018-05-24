@@ -4,11 +4,11 @@ hero_image: ইমেজ / banner.png
 description: একটি স্ক্র্যাচ প্রকল্প সংরক্ষণ
 theme: CC-প্রোটোটাইপ
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "আঁচড়ের দাগ"
 steps:
   - 
