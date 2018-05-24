@@ -4,11 +4,11 @@ hero_image: images / banner.png
 description: Saving a Scratch project
 theme: protótipo cc
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "coçar, arranhão"
 steps:
   - 
