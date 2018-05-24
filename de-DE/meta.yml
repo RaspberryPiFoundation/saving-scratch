@@ -4,11 +4,11 @@ hero_image: images/banner.png
 description: Ein Scratch-Projekt speichern
 theme: cc-prototype
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "scratch"
 steps:
   - 
