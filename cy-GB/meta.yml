@@ -4,11 +4,11 @@ hero_image: delweddau / banner.png
 description: Arbed prosiect Scratch
 theme: cc-prototeip
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "crafu"
 steps:
   - 
