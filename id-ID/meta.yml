@@ -1,15 +1,15 @@
 ---
 title: Menyimpan proyek Scratch
-hero_image: gambar / banner.png
+hero_image: images/banner.png
 description: Menyimpan proyek Scratch
-theme: cc-prototipe
+theme: cc-prototype
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "menggaruk"
+interests:
+technologies: "scratch"
 steps:
   - 
-    title: Simpan proyek anda
+    title: Simpan proyek kamu
