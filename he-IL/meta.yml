@@ -4,11 +4,11 @@ hero_image: תמונות / banner.png
 description: שמירת פרויקט Scratch
 theme: אב טיפוס
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "שריטה"
 steps:
   - 
