@@ -4,11 +4,11 @@ hero_image: images / banner.png
 description: Zapisywanie projektu Scratch
 theme: prototyp cc
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "zadraśnięcie"
 steps:
   - 
