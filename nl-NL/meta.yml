@@ -4,11 +4,11 @@ hero_image: images / banner.png
 description: Een Scratch-project opslaan
 theme: cc-prototype
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "krassen"
 steps:
   - 
