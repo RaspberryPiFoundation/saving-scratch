@@ -1,15 +1,15 @@
 ---
 title: スクラッチプロジェクトの保存
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: スクラッチプロジェクトの保存
 theme: cc-prototype
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
-technologies: "スクラッチ"
+interests:
+technologies: "scratch"
 steps:
   - 
     title: プロジェクトを保存する
