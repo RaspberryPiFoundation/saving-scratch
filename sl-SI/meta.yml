@@ -4,11 +4,11 @@ hero_image: images / banner.png
 description: Shranjevanje projekta Scratch
 theme: cc-prototip
 duration: 1
-currciulum: ""
+currciulum:
 listed: false
 ingredient: true
 copyedit: true
-interests: ""
+interests:
 technologies: "praska"
 steps:
   - 
