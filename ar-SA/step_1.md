@@ -2,6 +2,6 @@
 
 + يمكنك الضغط على ملف ثم حفظ لحفظ مشروعك.
     
-    ![screenshot](images/save.png)
+    ![لقطة شاشة](images/save.png)
 
-+ **Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
++ ملاحظة: إذا كنت تستخدم برنامج سكراتش عن طريق الانترنت ولا تملك حسابا فيه، يمكنك حفظ نسخة من مشروعك عن طريق تنزيل الى جهازك.
