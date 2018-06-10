@@ -1,6 +1,6 @@
-+ Give your program a name by typing into the text box in the top-left corner.
++ أعطي مشروعك إسمً بكتابة الاسم داخل مربع النص في الزاويه العلوية اليسرى.
 
-+ You can click **File** and then **Save now** to save your project.
++ يمكنك الضغط على ملف ثم حفظ لحفظ مشروعك.
     
     ![screenshot](images/save.png)
 
