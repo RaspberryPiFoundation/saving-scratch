@@ -1,7 +1,7 @@
 ---
-title: Saving a Scratch project
+title: حفظ مشروع Scratch
 hero_image: images/banner.png
-description: Saving a Scratch project
+description: حفظ مشروع Scratch
 theme: cc-prototype
 duration: 1
 currciulum:
@@ -12,4 +12,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Save your project
+    title: احفظ مشروعك
