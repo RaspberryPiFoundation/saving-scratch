@@ -1,15 +1,15 @@
 ---
-title: Arbed prosiect Scratch
-hero_image: delweddau / banner.png
-description: Arbed prosiect Scratch
-theme: cc-prototeip
+title: Cadw prosiect Scratch
+hero_image: images/banner.png
+description: Cadw prosiect Scratch
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "crafu"
+technologies: "scratch"
 steps:
   - 
-    title: Arbedwch eich prosiect
+    title: Cadw dy brosiect
