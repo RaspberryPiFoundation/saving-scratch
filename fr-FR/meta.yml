@@ -1,7 +1,7 @@
 ---
-title: Enregistrement d'un projet Scratch
+title: Enregistrer un projet Scratch
 hero_image: images / banner.png
-description: Enregistrement d'un projet Scratch
+description: Enregistrer un projet Scratch
 theme: cc-prototype
 duration: 1
 currciulum:
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "rayure"
+technologies: "scratch"
 steps:
   - 
-    title: Enregistrez votre projet
+    title: Enregistre ton projet
