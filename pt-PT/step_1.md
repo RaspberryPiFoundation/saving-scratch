@@ -1,7 +1,7 @@
-+ Dê ao seu programa um nome digitando na caixa de texto no canto superior esquerdo.
++ Dá ao teu programa um nome digitando na caixa de texto no canto superior esquerdo.
 
-+ Você pode clicar em **Arquivo** e depois em **Salve agora** para salvar seu projeto.
++ Podes clicar em **Arquivo** e depois em **Guardar** para guardares o teu projeto.
     
-    ![captura de tela](images/save.png)
+    ![screenshot](images/save.png)
 
-+ **Nota:** se você estiver usando Scratch online, mas não possui uma conta Scratch, você pode salvar uma cópia do seu projeto clicando em **, baixe para o seu computador**.
++ **Nota:** Se estiveres a usar Scratch online, mas não tens uma conta Scratch, podes guardar uma cópia do teu projeto clicando em **Faça Download para o seu computador**.
