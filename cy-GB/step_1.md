@@ -1,7 +1,7 @@
-+ Rhowch enw i'ch rhaglen trwy deipio i mewn i'r blwch testun yn y gornel chwith uchaf.
++ Rhowch enw ar eich rhaglen gan deipio yn y blwch testun yn y gornel chwith uchaf.
 
-+ Gallwch glicio **Ffeil** ac yna **Arbedwch yn awr** i achub eich prosiect.
++ Gallwch glicio **Ffeil** ac yna **Cadw nawr** i gadw eich prosiect.
     
-    ![screenshot](images/save.png)
+    ![sgrinlun](images/save.png)
 
-+ **Nodyn:** os ydych chi'n defnyddio Scratch ar-lein ond nad oes gennych gyfrif Scratch, gallwch arbed copi o'ch prosiect trwy glicio **Lawrlwytho i'ch cyfrifiadur** yn lle hynny.
++ **Nodyn:** os ydych yn defnyddio Scratch ar-lein ond nid oes gennych gyfrif Scratch, gallwch gadw copi o'ch prosiect gan glicio **Llwytho i'r cyfrifiadur** yn lle hynny.
