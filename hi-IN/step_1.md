@@ -1,7 +1,7 @@
-+ Give your program a name by typing into the text box in the top-left corner.
++ शीर्ष-बाएँ कोने में टेक्स्ट बॉक्स में टाइप करके अपने प्रोग्राम को नाम दें।
 
-+ You can click **File** and then **Save now** to save your project.
++ आप अपने प्रोजेक्ट को सहेजने के लिए **फ़ाइल** और फिर **अभी सहेजें** पर क्लिक कर सकते हैं।
     
-    ![screenshot](images/save.png)
+    ![स्क्रीनशॉट](images/save.png)
 
-+ **Note:** if you're using Scratch online but don't have a Scratch account, you can save a copy of your project by clicking **Download to your computer** instead.
++ **ध्यान दें:** यदि आप Scratch ऑनलाइन उपयोग कर रहे हैं, परन्तु आपके पास स्क्रैच खाता नहीं है, तो आप **कम्प्यूटर पर डाउनलोड करें** पर क्लिक करके अपने प्रोजेक्ट की प्रतिलिपि को सहेज सकते हैं।
