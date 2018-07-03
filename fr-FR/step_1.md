@@ -1,7 +1,7 @@
-+ Donnez un nom à votre programme en tapant dans la zone de texte dans le coin supérieur gauche.
++ Donne un nom à ton programme en tapant dans la zone de texte dans le coin supérieur gauche.
 
-+ Vous pouvez cliquer sur | 123_8_0_321 | Fichier | 123_9_1_321 | puis | 123_8_2_321 | Enregistrer maintenant | 123_9_3_321 | pour enregistrer votre projet.
++ Tu peux cliquer sur **Fichier** puis **Sauvegarder maintenant** pour enregistrer ton projet.
     
     ![capture d'écran](images/save.png)
 
-+ | 123_8_0_321 | Note: | 123_9_1_321 | Si vous utilisez Scratch en ligne mais que vous n'avez pas de compte Scratch, vous pouvez enregistrer une copie de votre projet en cliquant sur | 123_8_2_321 | Télécharger sur votre ordinateur | 123_9_3_321 | au lieu.
++ **Note:** Si tu utilise Scratch en ligne mais que tu n'as pas de compte Scratch, tu peux sauvegarder une copie de ton projet en cliquant sur **Télécharger dans votre ordinateur**.
