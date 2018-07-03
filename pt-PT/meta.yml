@@ -1,15 +1,15 @@
 ---
-title: Saving a Scratch project
-hero_image: images / banner.png
-description: Saving a Scratch project
-theme: protótipo cc
+title: Guardar um projeto Scratch
+hero_image: images/banner.png
+description: Guardar um projeto Scratch
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "coçar, arranhão"
+technologies: "scratch"
 steps:
   - 
-    title: Salve seu projeto
+    title: Guarda o teu projeto
