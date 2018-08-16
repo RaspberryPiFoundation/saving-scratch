@@ -1,15 +1,15 @@
 ---
-title: Zapisywanie projektu Scratch
-hero_image: images / banner.png
-description: Zapisywanie projektu Scratch
-theme: prototyp cc
+title: Zapisywanie projektu w Scratchu
+hero_image: images/banner.png
+description: Zapisywanie projektu w Scratchu
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "zadraśnięcie"
+technologies: "scratch"
 steps:
   - 
     title: Zapisz swój projekt
