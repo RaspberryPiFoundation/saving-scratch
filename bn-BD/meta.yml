@@ -1,15 +1,15 @@
 ---
-title: একটি স্ক্র্যাচ প্রকল্প সংরক্ষণ
-hero_image: ইমেজ / banner.png
-description: একটি স্ক্র্যাচ প্রকল্প সংরক্ষণ
-theme: CC-প্রোটোটাইপ
+title: স্ক্র্যাচ প্রজেক্ট সেভ করা
+hero_image: images/banner.png
+description: স্ক্র্যাচ প্রজেক্ট সেভ করা
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "আঁচড়ের দাগ"
+technologies: "scratch"
 steps:
   - 
-    title: আপনার প্রকল্প সংরক্ষণ করুন
+    title: আপনার প্রজেক্ট সেভ করুন
