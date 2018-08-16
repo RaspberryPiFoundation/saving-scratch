@@ -1,7 +1,7 @@
 ---
-title: स्क्रैच प्रोजेक्ट को सहेजना
+title: Scratch प्रोजेक्ट को सहेजना
 hero_image: images/banner.png
-description: स्क्रैच प्रोजेक्ट को सहेजना
+description: Scratch प्रोजेक्ट को सहेजना
 theme: cc-prototype
 duration: 1
 currciulum:
@@ -9,7 +9,7 @@ listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "स्क्रैच"
+technologies: "scratch"
 steps:
   - 
-    title: स्क्रैच प्रोजेक्ट को सहेजें
+    title: अपने प्रोजेक्ट को सहेजें
