@@ -1,4 +1,4 @@
-+ Nadaj programowi nazwę, wpisując tekst w polu tekstowym w lewym górnym rogu.
++ Wpisz nazwę programu w polu tekstowym w lewym górnym rogu.
 
 + Możesz kliknąć **Plik**, a następnie **Zapisz teraz**, aby zapisać swój projekt.
     
