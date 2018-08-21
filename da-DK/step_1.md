@@ -1,6 +1,6 @@
-+ Giv dit program et navn ved at skrive ind i tekstboksen øverst til venstre.
++ Giv dit program et navn ved at skrive det ind i tekstboksen øverst til venstre.
 
-+ Du kan klikke på **Fil** og derefter **Gem nu** at gemme dit projekt.
++ Du kan klikke på **Fil** og derefter **Gem nu** for at gemme dit projekt.
     
     ![skærmbillede](images/save.png)
 
