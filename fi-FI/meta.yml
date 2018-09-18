@@ -1,15 +1,15 @@
 ---
 title: Scratch-projektin tallentaminen
-hero_image: Kuvien / banner.png
+hero_image: images/banner.png
 description: Scratch-projektin tallentaminen
-theme: CC-prototyyppi
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "naarmu"
+technologies: "scratch"
 steps:
   - 
-    title: Tallenna projekti
+    title: Tallenna projektisi
