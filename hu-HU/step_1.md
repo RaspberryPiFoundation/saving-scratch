@@ -1,7 +1,7 @@
-+ Adja meg a program nevét a bal felső sarokban található szövegdobozba írva.
++ Adj nevet a programodnak a bal felső sarokban található szövegdobozban.
 
-+ A projekt mentéséhez kattintson a **fájl** , majd a **Mentés** gombra.
++ A projekt mentéséhez kattints a **Fájl** menüre, majd a **Mentés** menüpontra.
     
-    ![screenshot](images/save.png)
+    ![képernyőkép](images/save.png)
 
-+ **Megjegyzés:** ha Scratch-ot használ az interneten, de nincs Scratch-fiókja, akkor mentheti a projekt egy példányát ahelyett, hogy a **letöltés a számítógépre** elemre kattint.
++ **Megjegyzés:** ha online módban használod a Scratchet, de nincs Scratch fiókod, letöltheted a projektedet a **Letöltés saját gépre** menüponttal.
