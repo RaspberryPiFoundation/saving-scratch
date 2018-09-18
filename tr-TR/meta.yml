@@ -1,15 +1,15 @@
 ---
 title: Bir Scratch projesini kaydetme
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Bir Scratch projesini kaydetme
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "çizik"
+technologies: "scratch"
 steps:
   - 
     title: Projenizi kaydedin
