@@ -1,15 +1,15 @@
 ---
 title: שמירת פרויקט Scratch
-hero_image: תמונות / banner.png
+hero_image: images/banner.png
 description: שמירת פרויקט Scratch
-theme: אב טיפוס
+theme: cc-prototype
 duration: 1
 currciulum:
 listed: false
 ingredient: true
 copyedit: true
 interests:
-technologies: "שריטה"
+technologies: "scratch"
 steps:
   - 
     title: שמור את הפרויקט שלך
